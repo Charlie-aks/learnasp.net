@@ -1,0 +1,6 @@
+@dodduongphi_2122110567_HostAddress = http://localhost:5007
+
+GET {{dodduongphi_2122110567_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
