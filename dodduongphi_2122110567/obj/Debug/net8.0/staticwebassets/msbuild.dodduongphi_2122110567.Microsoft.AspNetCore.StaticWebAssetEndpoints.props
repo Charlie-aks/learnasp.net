@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/5a72a327-c547-4493-893e-0da0b760ad5e.eac3z87m1s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\5a72a327-c547-4493-893e-0da0b760ad5e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eac3z87m1s"},{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="},{"Name":"label","Value":"_content/dodduongphi_2122110567/avatars/5a72a327-c547-4493-893e-0da0b760ad5e.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/5a72a327-c547-4493-893e-0da0b760ad5e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\5a72a327-c547-4493-893e-0da0b760ad5e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 06:58:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/95e34daf-3a4d-4e37-b337-c59882553270.eac3z87m1s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\95e34daf-3a4d-4e37-b337-c59882553270.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eac3z87m1s"},{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="},{"Name":"label","Value":"_content/dodduongphi_2122110567/avatars/95e34daf-3a4d-4e37-b337-c59882553270.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:07:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/95e34daf-3a4d-4e37-b337-c59882553270.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\95e34daf-3a4d-4e37-b337-c59882553270.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:07:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.eac3z87m1s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eac3z87m1s"},{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="},{"Name":"label","Value":"_content/dodduongphi_2122110567/avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 09:41:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 09:41:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.eac3z87m1s.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eac3z87m1s"},{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="},{"Name":"label","Value":"_content/dodduongphi_2122110567/avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:25:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dodduongphi_2122110567/avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Apr 2025 07:25:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

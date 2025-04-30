@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg",
+      "PackagePath": "staticwebassets\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg"
+    },
+    {
+      "Id": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg",
+      "PackagePath": "staticwebassets\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg"
+    },
+    {
+      "Id": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg",
+      "PackagePath": "staticwebassets\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg"
+    },
+    {
+      "Id": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg",
+      "PackagePath": "staticwebassets\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dodduongphi_2122110567.props",
+      "PackagePath": "build\\dodduongphi_2122110567.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.dodduongphi_2122110567.props",
+      "PackagePath": "buildMultiTargeting\\dodduongphi_2122110567.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.dodduongphi_2122110567.props",
+      "PackagePath": "buildTransitive\\dodduongphi_2122110567.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dodduongphi_2122110567.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dodduongphi_2122110567.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

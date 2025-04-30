@@ -1,83 +1,98 @@
 ﻿using dodduongphi_2122110567.Model;
 using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace dodduongphi_2122110567.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
     {
-        // Tạo danh sách product tạm thời
+        // Danh sách tạm sản phẩm
         private static List<Product> _products = new List<Product>
         {
-            new Product { Id = 1, Name = "Laptop", Image = "laptop.png", Price = 19999999, Qty = 10 },
-            new Product { Id = 2, Name = "Áo thun", Image = "aothun.png", Price = 150000, Qty = 50 }
+            new Product
+            {
+                Id = 1,
+                Name = "Laptop",
+                Description = "Laptop hiệu suất cao",
+                Image = "laptop.png",
+                Price = 19999999,
+                Qty = 10,
+                CategoryId = 1,
+                Category = null,
+                OrderDetails = new List<OrderDetail>()
+            },
+            new Product
+            {
+                Id = 2,
+                Name = "Áo thun",
+                Description = "Áo thun cotton co giãn",
+                Image = "aothun.png",
+                Price = 150000,
+                Qty = 50,
+                CategoryId = 2,
+                Category = null,
+                OrderDetails = new List<OrderDetail>()
+            }
         };
 
-        // GET: api/Product - Lấy tất cả product
+        // GET: api/Product
         [HttpGet]
         public ActionResult<IEnumerable<Product>> GetAll()
         {
             return Ok(_products);
         }
 
-        // GET api/Product/5 - Lấy product theo ID
+        // GET api/Product/5
         [HttpGet("{id}")]
         public ActionResult<Product> GetById(int id)
         {
             var product = _products.FirstOrDefault(p => p.Id == id);
             if (product == null)
-            {
                 return NotFound("Không tìm thấy sản phẩm với ID này");
-            }
             return Ok(product);
         }
 
-        // POST api/Product - Thêm product mới
+        // POST api/Product
         [HttpPost]
         public ActionResult<Product> Create([FromBody] Product newProduct)
         {
-            // Tạo ID mới
             newProduct.Id = _products.Max(p => p.Id) + 1;
-            _products.Add(newProduct);
+            newProduct.OrderDetails = new List<OrderDetail>();
+            newProduct.Category = null;
 
-            // Trả về kết quả với status 201 Created
+            _products.Add(newProduct);
             return CreatedAtAction(nameof(GetById), new { id = newProduct.Id }, newProduct);
         }
 
-        // PUT api/Product/5 - Cập nhật product
+        // PUT api/Product/5
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromBody] Product updatedProduct)
         {
-            var existingProduct = _products.FirstOrDefault(p => p.Id == id);
-            if (existingProduct == null)
-            {
+            var existing = _products.FirstOrDefault(p => p.Id == id);
+            if (existing == null)
                 return NotFound("Không tìm thấy sản phẩm để cập nhật");
-            }
 
-            // Cập nhật thông tin
-            existingProduct.Name = updatedProduct.Name;
-            existingProduct.Image = updatedProduct.Image;
-            existingProduct.Price = updatedProduct.Price;
-            existingProduct.Qty = updatedProduct.Qty;
+            existing.Name = updatedProduct.Name;
+            existing.Description = updatedProduct.Description;
+            existing.Image = updatedProduct.Image;
+            existing.Price = updatedProduct.Price;
+            existing.Qty = updatedProduct.Qty;
+            existing.CategoryId = updatedProduct.CategoryId;
 
-            return NoContent(); // Status 204 No Content
+            return NoContent();
         }
 
-        // DELETE api/Product/5 - Xóa product
+        // DELETE api/Product/5
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             var product = _products.FirstOrDefault(p => p.Id == id);
             if (product == null)
-            {
                 return NotFound("Không tìm thấy sản phẩm để xóa");
-            }
 
             _products.Remove(product);
-            return NoContent(); // Status 204 No Content
+            return NoContent();
         }
     }
 }

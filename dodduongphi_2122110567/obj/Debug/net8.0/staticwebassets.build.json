@@ -1,12 +1,434 @@
 {
   "Version": 1,
-  "Hash": "ikbdgg7FyhAPNd+wh/pFzylNwgmsTa0KszipCvdkqZ4=",
+  "Hash": "LiiCu/2lS97+uG3u47bJ36r7MZx95MWHEPx0P2M990c=",
   "Source": "dodduongphi_2122110567",
   "BasePath": "_content/dodduongphi_2122110567",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "dodduongphi_2122110567\\wwwroot",
+      "Source": "dodduongphi_2122110567",
+      "ContentRoot": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\",
+      "BasePath": "_content/dodduongphi_2122110567",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg",
+      "SourceId": "dodduongphi_2122110567",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\",
+      "BasePath": "_content/dodduongphi_2122110567",
+      "RelativePath": "avatars/5a72a327-c547-4493-893e-0da0b760ad5e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eac3z87m1s",
+      "Integrity": "Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg"
+    },
+    {
+      "Identity": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg",
+      "SourceId": "dodduongphi_2122110567",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\",
+      "BasePath": "_content/dodduongphi_2122110567",
+      "RelativePath": "avatars/95e34daf-3a4d-4e37-b337-c59882553270#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eac3z87m1s",
+      "Integrity": "Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg"
+    },
+    {
+      "Identity": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg",
+      "SourceId": "dodduongphi_2122110567",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\",
+      "BasePath": "_content/dodduongphi_2122110567",
+      "RelativePath": "avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eac3z87m1s",
+      "Integrity": "Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg"
+    },
+    {
+      "Identity": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg",
+      "SourceId": "dodduongphi_2122110567",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\",
+      "BasePath": "_content/dodduongphi_2122110567",
+      "RelativePath": "avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eac3z87m1s",
+      "Integrity": "Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "avatars/5a72a327-c547-4493-893e-0da0b760ad5e.eac3z87m1s.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eac3z87m1s"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/5a72a327-c547-4493-893e-0da0b760ad5e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/5a72a327-c547-4493-893e-0da0b760ad5e.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\5a72a327-c547-4493-893e-0da0b760ad5e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 06:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/95e34daf-3a4d-4e37-b337-c59882553270.eac3z87m1s.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:07:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eac3z87m1s"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/95e34daf-3a4d-4e37-b337-c59882553270.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/95e34daf-3a4d-4e37-b337-c59882553270.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\95e34daf-3a4d-4e37-b337-c59882553270.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:07:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.eac3z87m1s.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eac3z87m1s"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\d3c9fda1-e8cc-4111-a1db-e4cf7b36b216.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 09:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.eac3z87m1s.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eac3z87m1s"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg",
+      "AssetFile": "C:\\dodduongphi_2122110567\\dodduongphi_2122110567\\wwwroot\\avatars\\f0c445c9-5ba3-48c0-88f8-81afc744f3ec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 07:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Coxze9Igp8ONdj48/iQkjCuNEyik1j2q5dqNV0IU6AI="
+        }
+      ]
+    }
+  ]
 }
